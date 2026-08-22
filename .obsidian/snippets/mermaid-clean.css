@@ -1,0 +1,31 @@
+.mermaid
+.node
+circle
+{
+  fill: transparent !important;
+  stroke: #888 !important;
+  stroke-width: 1.5px !important;
+}
+
+.mermaid
+.node
+.label
+{
+  color: #eee !important;
+}
+
+.mermaid
+.edgePath
+.path
+{
+  stroke: #aaa !important;
+  stroke-width: 1px !important;
+}
+
+.mermaid
+.edgeLabel
+{
+  background: transparent !important;
+  color: #ccc !important;
+  font-size: 12px !important;
+}
