@@ -12,7 +12,7 @@ These diagrams serve as abstractions of the code that would be required to imple
 - $S_A$ is the set of accepting states, $S_A \subseteq S$ . Each state in $S_A$ appears as a double circle in the transition diagram.
 - $S_e$ is an error state.
 ‎ 
-   ![[Pasted image 20260820152148.png|497]]
+   ![[Pasted image 20260820152148.png|463]]
 
 $\delta$ right now is only *partially* specified. For all other combinations of state $s_i$ (any state) and input character $c$ , we define $\delta(s_i, c) = s_e$ , which can be understood
 as: any state can carry any character over to the error state.
@@ -25,10 +25,9 @@ This corresponds to our intuition for the transition diagram. For the string "ne
 
 Because $s_3 \in S_A$ , and there are no characters left for consumption, the finite automaton accepts "new". However, the same cannot be said for the input: "nut". On the letter 'n', the FA takes $s_0 \xrightarrow{n} s_1$ . On 'u', it takes $s_1 \xrightarrow{u} s_e$ , because it does not match with any of the available characters in the finite alphabet ($\Sigma$). Once the FA enters $S_e$ , it stays in $S_e$ until it reaches the end of the string.
 
-If the string $x$ consists of characters $x_1$ $x_2$ $x_3$ $...$ $x_n$ then the FA accepts $x$ if and
-only if:
+If the string $x$ consists of characters $x_1$ $x_2$ $x_3$ $...$ $x_n$ then the FA accepts $x$ if:
 
-				$\delta(\delta(... \delta(\delta(\delta(s_0, x_1), x_2), x_3)..., x_n-1), x_n) \in S_A$
+		    $\delta(\delta(... \delta(\delta(\delta(s_0, x_1), x_2), x_3)..., x_n-1), x_n) \in S_A$
 
 The base case, $\delta(s_0, x_1)$ means we're carrying the first character of string $x$ from state 0. Then, we're using the state $\delta(s_0, x_1)$ as the input for the next transition, $\delta(\delta(s_0, x_1), x_2)$ , along with $x_2$ , which yields the next state, and so on, until all of the input has been consumed.
 

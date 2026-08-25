@@ -12,5 +12,4 @@ enum Token {
 
 A scanner should produce a pair, `{lexeme, category}`, where lexeme is the spelling of the word, and category is its syntactic category. This pair is often seen as a token.
 
-In the context of scanning, any and all symbols are treated as separate words, i.e., `?`, `:`, `.`, or even multi-character symbols such as: `::`, `||`, `??`, etc.
-
+In the context of scanning, any and all symbols are treated as separate words, i.e., '?', ':', '.', or even multi-character symbols such as: '::', '||', '??', etc.

@@ -19,7 +19,7 @@ The CBC algorithm allows us to very easy handle simple words like "new", "while"
 
    ![[Pasted image 20260821232039.png]]
 
-In this transition diagram, if $s_0$ is 0, we can transition to $s_1$ , an acceptance state, as we don't really want 01 to be a value (If we did, we could just omit the 0 case and just keep it always $0...9$ ). However, for the second plausible option, it checks if the value provided to $s_0$ is 1 through 9, if so, it indefinitely checks the next character's input until it is an invalid input.
+In this transition diagram, if $s_0$ is 0, we can transition to $s_1$, an acceptance state, as we don't really want 01 to be a value (If we did, we could just omit the 0 case and just keep it always $0...9$). However, for the second plausible option, it checks if the value provided to $s_0$ is 1 through 9, if so, it indefinitely checks the next character's input until it is an invalid input.
 
    ![[Pasted image 20260822003609.png]]
 

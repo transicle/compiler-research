@@ -2,7 +2,7 @@ A compiler is some translation software that turns a program written in one lang
 
 To do so, the compiler *must* understand the form (or syntax), and the content (or meaning) of the input language, as well as needing to understand the rules that control syntax and meaning in the output language.
 
-   ![[Pasted image 20260820151550.png|559]]
+   ![[Pasted image 20260820151550.png|437]]
 
 The way a typical compiler is designed derives from a few core processes. The compiler has a *front end*, which handles the source language and a *back end* to handle the target language.
 
