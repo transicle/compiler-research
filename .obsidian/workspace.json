@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ch. 2/Difference in Algorithms/Regular Expressions/Ch. 2.3.b  —  Formalizing the Notation for Regular Expressions.md",
+                "file": "Understanding Different Symbols.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Ch. 2.3.b  —  Formalizing the Notation for Regular Expressions"
+              "title": "Understanding Different Symbols"
             }
           }
         ]
@@ -33,12 +33,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Ch. 2/Difference in Algorithms/Regular Expressions/Ch. 2.3.c  —  Examples of Regular Expressions.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "Ch. 2.3.c  —  Examples of Regular Expressions"
             }
           }
         ]
@@ -205,7 +205,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 550.69921875
+    "width": 558.0234375
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -222,14 +222,15 @@
   },
   "active": "23097a255b7a04ba",
   "lastOpenFiles": [
+    "Understanding Different Symbols.md",
     "Ch. 2/Difference in Algorithms/Regular Expressions/Ch. 2.3.c  —  Examples of Regular Expressions.md",
+    "Understanding FSM Diagrams.md",
+    "A Formalism for Recognizers.md",
     "README.md",
     "Ch. 2/Difference in Algorithms/Regular Expressions/Ch. 2.3.b  —  Formalizing the Notation for Regular Expressions.md",
-    "Ch. 2/Difference in Algorithms/Regular Expressions/Ch. 2.3.a  —  Introduction to Regular Expressions.md",
-    "Understanding FSM Diagrams.md",
-    "Ch. 2/Difference in Algorithms/Ch. 2.2.a  —  The CBC Algorithm.md",
     "Ch. 2/Ch. 2.1  —  Scanners.md",
-    "A Formalism for Recognizers.md",
+    "Ch. 2/Difference in Algorithms/Ch. 2.2.a  —  The CBC Algorithm.md",
+    "Ch. 2/Difference in Algorithms/Regular Expressions/Ch. 2.3.a  —  Introduction to Regular Expressions.md",
     "Ch. 1/Ch. 1.1  —  Overview of Compilation.md",
     "Assets/Pasted image 20260823002248.png",
     "Ch. 2/Difference in Algorithms/Regular Expressions",

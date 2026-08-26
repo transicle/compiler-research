@@ -1,4 +1,4 @@
-The CBC, or Character-by-Character algorithm is a type of algorithm for functional [lexical scanners ](obsidian://open?vault=Compilers&file=Ch.%202%2FCh.%202.1%20%20%E2%80%94%20%20Scanners) that proceed 1 character at a time when processing a string.
+The CBC, or Character-by-Character algorithm is a type of algorithm for functional [lexical scanners ](obsidian://open?vault=Compilers&file=Ch.%202%2FCh.%202.1%20%20%E2%80%94%20%20Scanners) that proceed one character at a time when processing a string.
 
 Take for example, the word "new", the CBC algorithm will look for 'n', if found, proceed, then check for 'e', if found, proceed, then check for 'w', if found, proceed. If one fails, the whole thing is rejected.
 
