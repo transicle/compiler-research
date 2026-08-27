@@ -4,41 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "defee861797d604d",
+        "id": "75c16cac8b4462fc",
         "type": "tabs",
         "children": [
           {
-            "id": "b4e162aa6c95df5f",
+            "id": "fcef15db3be61a3b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Understanding Different Symbols.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Understanding Different Symbols"
-            }
-          }
-        ]
-      },
-      {
-        "id": "ee3b4dc92df50b2d",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "23097a255b7a04ba",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ch. 2/Difference in Algorithms/Regular Expressions/Ch. 2.3.c  —  Examples of Regular Expressions.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Ch. 2.3.c  —  Examples of Regular Expressions"
+              "title": "New tab"
             }
           }
         ]
@@ -103,7 +79,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 418.06640625
+    "width": 513.859375
   },
   "right": {
     "id": "6205f2b4a1e83a60",
@@ -205,7 +181,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 558.0234375
+    "width": 614.921875
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -220,16 +196,17 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "23097a255b7a04ba",
+  "active": "d7a8d3e5417b6cf9",
   "lastOpenFiles": [
-    "Understanding Different Symbols.md",
+    "Understanding Different Symbols and Language.md",
     "Ch. 2/Difference in Algorithms/Regular Expressions/Ch. 2.3.c  —  Examples of Regular Expressions.md",
-    "Understanding FSM Diagrams.md",
+    "Pasted image 20260826192712.png",
     "A Formalism for Recognizers.md",
-    "README.md",
     "Ch. 2/Difference in Algorithms/Regular Expressions/Ch. 2.3.b  —  Formalizing the Notation for Regular Expressions.md",
-    "Ch. 2/Ch. 2.1  —  Scanners.md",
     "Ch. 2/Difference in Algorithms/Ch. 2.2.a  —  The CBC Algorithm.md",
+    "Understanding FSM Diagrams.md",
+    "README.md",
+    "Ch. 2/Ch. 2.1  —  Scanners.md",
     "Ch. 2/Difference in Algorithms/Regular Expressions/Ch. 2.3.a  —  Introduction to Regular Expressions.md",
     "Ch. 1/Ch. 1.1  —  Overview of Compilation.md",
     "Assets/Pasted image 20260823002248.png",
@@ -244,7 +221,6 @@
     "Assets/Pasted image 20260811104322.png",
     "Assets/Pasted image 20260820152148.png",
     "Assets/Pasted image 20260820151829.png",
-    "Assets/Pasted image 20260820152031.png",
     "().md",
     "Ch. 2/Difference in Algorithms",
     "Ch. 2",

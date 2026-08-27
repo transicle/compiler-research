@@ -7,3 +7,5 @@ Some of these are also listed in different files when context is necessary and i
 - $\in$ is used to represent the belonging to something. For example, $x \in y$ means $x$ belongs to $y$.
 - $\notin$ is the inverse of $\in$.
 - $\delta$ (or Delta, lowercase) is used to represent the [transition function ](obsidian://open?vault=Compilers&file=A%20Formalism%20for%20Recognizers).
+
+"Complement" refers to something that makes another something whole. "$x$ complement $y$", means $y$ is better with $x$.
