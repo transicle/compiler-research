@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "75c16cac8b4462fc",
+        "id": "f2a7489a4fa280f8",
         "type": "tabs",
         "children": [
           {
-            "id": "fcef15db3be61a3b",
+            "id": "1710aa5f8ca02032",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Lab/Writing a Lexical Scanner/Debugging & Using the Scanner.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Debugging & Using the Scanner"
             }
           }
         ]
@@ -181,7 +185,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 614.921875
+    "width": 318.8359375
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -196,21 +200,29 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "ed9ba4ab8bdb49f3",
+  "active": "1710aa5f8ca02032",
   "lastOpenFiles": [
-    "Understanding Different Symbols and Language.md",
-    "Ch. 2/Difference in Algorithms/Regular Expressions/Ch. 2.3.c  —  Examples of Regular Expressions.md",
+    "Theory/Ch. 2/Difference in Algorithms/Regular Expressions/Ch. 2.3.a  —  Introduction to Regular Expressions.md",
+    "Lab/Writing a Lexical Scanner/Debugging & Using the Scanner.md",
+    "Pasted image 20260916212447.png",
+    "Lab/Writing a Lexical Scanner/Building the Scanner.md",
+    "Lab/Writing a Lexical Scanner/Creating the Scanner's Design.md",
+    "Theory/Ch. 1/Ch. 1.1  —  Overview of Compilation.md",
+    "Theory/Understanding FSM Diagrams.md",
+    "Theory/Understanding Different Symbols and Language.md",
+    "Theory/A Formalism for Recognizers.md",
+    "Theory/Ch. 2/Difference in Algorithms/Ch. 2.2.a  —  The CBC Algorithm.md",
+    "Theory/Ch. 2/Ch. 2.1  —  Scanners.md",
+    "Theory/Ch. 2/Difference in Algorithms/Regular Expressions/Ch. 2.3.c  —  Examples of Regular Expressions.md",
+    "Theory/Ch. 2/Difference in Algorithms/Regular Expressions/Ch. 2.3.b  —  Formalizing the Notation for Regular Expressions.md",
+    "Lab/Writing a Lexical Scanner",
+    "Lab",
+    "Theory",
+    "Compiler Theory",
     "Assets/Pasted image 20260826192712.png",
-    "A Formalism for Recognizers.md",
-    "Ch. 2/Difference in Algorithms/Regular Expressions/Ch. 2.3.b  —  Formalizing the Notation for Regular Expressions.md",
-    "Ch. 2/Difference in Algorithms/Ch. 2.2.a  —  The CBC Algorithm.md",
-    "Understanding FSM Diagrams.md",
     "README.md",
-    "Ch. 2/Ch. 2.1  —  Scanners.md",
-    "Ch. 2/Difference in Algorithms/Regular Expressions/Ch. 2.3.a  —  Introduction to Regular Expressions.md",
-    "Ch. 1/Ch. 1.1  —  Overview of Compilation.md",
     "Assets/Pasted image 20260823002248.png",
-    "Ch. 2/Difference in Algorithms/Regular Expressions",
+    "Theory/Ch. 2/Difference in Algorithms/Regular Expressions",
     "My Designs/Recognizer Review — Finite Automaton.md",
     "My Designs",
     "Assets/Pasted image 20260821232039.png",
@@ -220,12 +232,11 @@
     "Assets/Pasted image 20260820151726.png",
     "Assets/Pasted image 20260811104322.png",
     "Assets/Pasted image 20260820152148.png",
-    "Assets/Pasted image 20260820151829.png",
     "().md",
-    "Ch. 2/Difference in Algorithms",
-    "Ch. 2",
+    "Theory/Ch. 2/Difference in Algorithms",
+    "Theory/Ch. 2",
     "Assets",
-    "Ch. 1",
+    "Theory/Ch. 1",
     "Welcome.md"
   ]
 }
