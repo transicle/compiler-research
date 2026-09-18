@@ -1,3 +1,4 @@
+![[Understanding FSM Diagrams.mp3]]
 Finite-State Machine (FSM) diagrams are ways to represent how a system processes input one piece at a time, as well as changes between different states.
 
    ![[Pasted image 20260820151726.png|372]]

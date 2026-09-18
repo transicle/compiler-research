@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "f2a7489a4fa280f8",
+        "id": "852ea80acfa1a29a",
         "type": "tabs",
         "children": [
           {
-            "id": "1710aa5f8ca02032",
+            "id": "2e917a42995fe37e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Lab/Writing a Lexical Scanner/Debugging & Using the Scanner.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Debugging & Using the Scanner"
+              "title": "New tab"
             }
           }
         ]
@@ -83,7 +79,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 513.859375
+    "width": 505.3828125
   },
   "right": {
     "id": "6205f2b4a1e83a60",
@@ -127,50 +123,6 @@
             }
           },
           {
-            "id": "3089cd7c36940420",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-tags",
-              "title": "Tags"
-            }
-          },
-          {
-            "id": "7d216bb388fe1cf5",
-            "type": "leaf",
-            "state": {
-              "type": "all-properties",
-              "state": {
-                "sortOrder": "frequency",
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-archive",
-              "title": "All properties"
-            }
-          },
-          {
-            "id": "743e71867dd8cd93",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "Ch. 1/Ch. 1.1  —  Overview of Compilation.md",
-                "followCursor": false,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-list",
-              "title": "Outline"
-            }
-          },
-          {
             "id": "d7a8d3e5417b6cf9",
             "type": "leaf",
             "state": {
@@ -179,13 +131,23 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "b3916a02bd989b0b",
+            "type": "leaf",
+            "state": {
+              "type": "voice-player-view",
+              "state": {},
+              "icon": "audio-lines",
+              "title": "Voice player"
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 318.8359375
+    "width": 456.07421875
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -197,34 +159,41 @@
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
       "obsidian-git:Open Git source control": false,
-      "obsidian42-brat:BRAT": false
+      "obsidian42-brat:BRAT": false,
+      "voice:Voice read text": false,
+      "voice:Open Voice player": false
     }
   },
-  "active": "ed9ba4ab8bdb49f3",
+  "active": "d7a8d3e5417b6cf9",
   "lastOpenFiles": [
-    "Theory/Ch. 2/Difference in Algorithms/Regular Expressions/Ch. 2.3.a  —  Introduction to Regular Expressions.md",
-    "Lab/Writing a Lexical Scanner/Debugging & Using the Scanner.md",
-    "Assets/Pasted image 20260916212447.png",
-    "Lab/Writing a Lexical Scanner/Building the Scanner.md",
-    "Lab/Writing a Lexical Scanner/Creating the Scanner's Design.md",
-    "Theory/Ch. 1/Ch. 1.1  —  Overview of Compilation.md",
+    "Audios/Ch. 2.3.a  —  Introduction to Regular Expressions.mp3",
+    "Theory/Ch. 2/Difference in Algorithms/Regular Expressions/Ch. 2.4.d  —  Closure Properties of Regular Expressions.md",
     "Theory/Understanding FSM Diagrams.md",
-    "Theory/Understanding Different Symbols and Language.md",
+    "Audios/Ch. 2.3.b  —  Formalizing the Notation for Regular Expressions.mp3",
+    "Lab/Writing a Lexical Scanner/Creating the Scanner's Design.md",
+    "Lab/Writing a Lexical Scanner/Debugging & Using the Scanner.md",
     "Theory/A Formalism for Recognizers.md",
+    "Audios/A Formalism for Recognizers.mp3",
+    "Audios/Understanding FSM Diagrams.mp3",
+    "Theory/Understanding Different Symbols and Language.md",
+    "Audios/Understanding Different Symbols and Language.mp3",
+    "Audios/Ch. 2.4.d  —  Closure Properties of Regular Expressions.mp3",
+    "Theory/Ch. 2/Difference in Algorithms/Regular Expressions/Ch. 2.3.c  —  Examples of Regular Expressions.md",
+    "Audios/Ch. 2.3.c  —  Examples of Regular Expressions.mp3",
+    "Theory/Ch. 2/Difference in Algorithms/Regular Expressions/Ch. 2.3.b  —  Formalizing the Notation for Regular Expressions.md",
+    "Theory/Ch. 2/Difference in Algorithms/Regular Expressions/Ch. 2.3.a  —  Introduction to Regular Expressions.md",
+    "Theory/Ch. 1/Ch. 1.1  —  Overview of Compilation.md",
+    "Audios/Ch. 1.1  —  Overview of Compilation.mp3",
+    "Audios/Debugging & Using the Scanner.mp3",
+    "Audios/Creating the Scanner's Design.mp3",
+    "Lab/Writing a Lexical Scanner/Building the Scanner.md",
     "Theory/Ch. 2/Difference in Algorithms/Ch. 2.2.a  —  The CBC Algorithm.md",
     "Theory/Ch. 2/Ch. 2.1  —  Scanners.md",
-    "Theory/Ch. 2/Difference in Algorithms/Regular Expressions/Ch. 2.3.c  —  Examples of Regular Expressions.md",
-    "Theory/Ch. 2/Difference in Algorithms/Regular Expressions/Ch. 2.3.b  —  Formalizing the Notation for Regular Expressions.md",
-    "Lab/Writing a Lexical Scanner",
-    "Lab",
-    "Theory",
-    "Compiler Theory",
-    "Assets/Pasted image 20260826192712.png",
     "README.md",
+    "Assets/Pasted image 20260916212447.png",
+    "Assets/Pasted image 20260826192712.png",
     "Assets/Pasted image 20260823002248.png",
-    "Theory/Ch. 2/Difference in Algorithms/Regular Expressions",
     "My Designs/Recognizer Review — Finite Automaton.md",
-    "My Designs",
     "Assets/Pasted image 20260821232039.png",
     "Assets/Pasted image 20260822003609.png",
     "Assets/Pasted image 20260822021340.png",
@@ -233,10 +202,6 @@
     "Assets/Pasted image 20260811104322.png",
     "Assets/Pasted image 20260820152148.png",
     "().md",
-    "Theory/Ch. 2/Difference in Algorithms",
-    "Theory/Ch. 2",
-    "Assets",
-    "Theory/Ch. 1",
     "Welcome.md"
   ]
 }

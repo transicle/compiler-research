@@ -1,3 +1,4 @@
+![[Creating the Scanner's Design.mp3]]
 A lexical scanner can be written using various algorithms — that of which, I will use the [CBC algorithm ](obsidian://open?vault=Compilers&file=Theory%2FCh.%202%2FDifference%20in%20Algorithms%2FCh.%202.2.a%20%20%E2%80%94%20%20The%20CBC%20Algorithm). The scanner's job is to process source code, and output a stream (or a kind of array) of "tokens". A token holds information such as the line and column numbers, the character scanned, and the type of the token.
 
 We need a few files:

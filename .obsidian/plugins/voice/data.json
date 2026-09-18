@@ -1,0 +1,486 @@
+{
+  "TTS_PROVIDER": "openai-compatible",
+  "VOICE": "Stephen",
+  "SPEED": 1,
+  "AWS_REGION": "eu-central-1",
+  "AWS_ACCESS_KEY_ID": "",
+  "AWS_SECRET_ACCESS_KEY": "",
+  "ELEVENLABS_API_KEY": "",
+  "ELEVENLABS_VOICE": "21m00Tcm4TlvDq8ikWAM",
+  "ELEVENLABS_MODEL": "eleven_multilingual_v2",
+  "GOOGLE_API_KEY": "",
+  "GOOGLE_VOICE": "en-US-Neural2-C",
+  "AZURE_API_KEY": "",
+  "AZURE_REGION": "eastus",
+  "AZURE_VOICE": "en-US-JennyNeural",
+  "OPENAI_API_KEY": "",
+  "OPENAI_VOICE": "alloy",
+  "OPENAI_MODEL": "gpt-4o-mini-tts",
+  "OPENAI_COMPAT_BASE_URL": "http://localhost:8880/v1",
+  "OPENAI_COMPAT_API_KEY": "",
+  "OPENAI_COMPAT_MODEL": "kokoro",
+  "OPENAI_COMPAT_VOICE": "af_alloy",
+  "OPENAI_COMPAT_FORMAT": "mp3",
+  "OPENAI_COMPAT_CUSTOM_MODELS": "kokoro",
+  "OPENAI_COMPAT_CUSTOM_VOICES": "am_michael",
+  "MINIMAX_API_KEY": "",
+  "MINIMAX_GROUP_ID": "",
+  "MINIMAX_VOICE": "Wise_Woman",
+  "MINIMAX_MODEL": "speech-02-hd",
+  "MINIMAX_HOST": "api.minimax.io",
+  "spellOutAcronyms": true,
+  "readCodeBlocks": false,
+  "autoDownloadAudio": true,
+  "autoEmbedAudio": true,
+  "skipUrls": true,
+  "rewindSeconds": 3,
+  "forwardSeconds": 3,
+  "folderSelectorFollowsNote": true,
+  "playNoteSavedAudio": true,
+  "defaultAudioFolder": "",
+  "favoriteAudioFolders": [],
+  "audioFolderMigrated": true,
+  "acronymDefaultMigrated": true,
+  "playerPanePlaced": true,
+  "lastWhatsNewVersion": "1.19.0",
+  "openaiCompatModelCatalog": [
+    "gpt-4o-mini-tts",
+    "kokoro",
+    "tts-1",
+    "tts-1-hd"
+  ],
+  "openaiCompatVoiceCatalog": [
+    {
+      "id": "af_alloy",
+      "label": "af_alloy",
+      "lang": "",
+      "group": "Server voices"
+    },
+    {
+      "id": "af_amelia_inno",
+      "label": "af_amelia_inno",
+      "lang": "",
+      "group": "Server voices"
+    },
+    {
+      "id": "af_aoede",
+      "label": "af_aoede",
+      "lang": "",
+      "group": "Server voices"
+    },
+    {
+      "id": "af_bella",
+      "label": "af_bella",
+      "lang": "",
+      "group": "Server voices"
+    },
+    {
+      "id": "af_goodall_inno",
+      "label": "af_goodall_inno",
+      "lang": "",
+      "group": "Server voices"
+    },
+    {
+      "id": "af_heart",
+      "label": "af_heart",
+      "lang": "",
+      "group": "Server voices"
+    },
+    {
+      "id": "af_jadzia",
+      "label": "af_jadzia",
+      "lang": "",
+      "group": "Server voices"
+    },
+    {
+      "id": "af_jessica",
+      "label": "af_jessica",
+      "lang": "",
+      "group": "Server voices"
+    },
+    {
+      "id": "af_kore",
+      "label": "af_kore",
+      "lang": "",
+      "group": "Server voices"
+    },
+    {
+      "id": "af_nicole",
+      "label": "af_nicole",
+      "lang": "",
+      "group": "Server voices"
+    },
+    {
+      "id": "af_nova",
+      "label": "af_nova",
+      "lang": "",
+      "group": "Server voices"
+    },
+    {
+      "id": "af_river",
+      "label": "af_river",
+      "lang": "",
+      "group": "Server voices"
+    },
+    {
+      "id": "af_sarah",
+      "label": "af_sarah",
+      "lang": "",
+      "group": "Server voices"
+    },
+    {
+      "id": "af_sky",
+      "label": "af_sky",
+      "lang": "",
+      "group": "Server voices"
+    },
+    {
+      "id": "af_v0",
+      "label": "af_v0",
+      "lang": "",
+      "group": "Server voices"
+    },
+    {
+      "id": "af_v0bella",
+      "label": "af_v0bella",
+      "lang": "",
+      "group": "Server voices"
+    },
+    {
+      "id": "af_v0irulan",
+      "label": "af_v0irulan",
+      "lang": "",
+      "group": "Server voices"
+    },
+    {
+      "id": "af_v0nicole",
+      "label": "af_v0nicole",
+      "lang": "",
+      "group": "Server voices"
+    },
+    {
+      "id": "af_v0sarah",
+      "label": "af_v0sarah",
+      "lang": "",
+      "group": "Server voices"
+    },
+    {
+      "id": "af_v0sky",
+      "label": "af_v0sky",
+      "lang": "",
+      "group": "Server voices"
+    },
+    {
+      "id": "am_adam",
+      "label": "am_adam",
+      "lang": "",
+      "group": "Server voices"
+    },
+    {
+      "id": "am_echo",
+      "label": "am_echo",
+      "lang": "",
+      "group": "Server voices"
+    },
+    {
+      "id": "am_eric",
+      "label": "am_eric",
+      "lang": "",
+      "group": "Server voices"
+    },
+    {
+      "id": "am_fenrir",
+      "label": "am_fenrir",
+      "lang": "",
+      "group": "Server voices"
+    },
+    {
+      "id": "am_liam",
+      "label": "am_liam",
+      "lang": "",
+      "group": "Server voices"
+    },
+    {
+      "id": "am_michael",
+      "label": "am_michael",
+      "lang": "",
+      "group": "Server voices"
+    },
+    {
+      "id": "am_onyx",
+      "label": "am_onyx",
+      "lang": "",
+      "group": "Server voices"
+    },
+    {
+      "id": "am_price_inno",
+      "label": "am_price_inno",
+      "lang": "",
+      "group": "Server voices"
+    },
+    {
+      "id": "am_puck",
+      "label": "am_puck",
+      "lang": "",
+      "group": "Server voices"
+    },
+    {
+      "id": "am_santa",
+      "label": "am_santa",
+      "lang": "",
+      "group": "Server voices"
+    },
+    {
+      "id": "am_v0adam",
+      "label": "am_v0adam",
+      "lang": "",
+      "group": "Server voices"
+    },
+    {
+      "id": "am_v0gurney",
+      "label": "am_v0gurney",
+      "lang": "",
+      "group": "Server voices"
+    },
+    {
+      "id": "am_v0michael",
+      "label": "am_v0michael",
+      "lang": "",
+      "group": "Server voices"
+    },
+    {
+      "id": "bf_alice",
+      "label": "bf_alice",
+      "lang": "",
+      "group": "Server voices"
+    },
+    {
+      "id": "bf_emma",
+      "label": "bf_emma",
+      "lang": "",
+      "group": "Server voices"
+    },
+    {
+      "id": "bf_isabella",
+      "label": "bf_isabella",
+      "lang": "",
+      "group": "Server voices"
+    },
+    {
+      "id": "bf_lily",
+      "label": "bf_lily",
+      "lang": "",
+      "group": "Server voices"
+    },
+    {
+      "id": "bf_v0emma",
+      "label": "bf_v0emma",
+      "lang": "",
+      "group": "Server voices"
+    },
+    {
+      "id": "bf_v0isabella",
+      "label": "bf_v0isabella",
+      "lang": "",
+      "group": "Server voices"
+    },
+    {
+      "id": "bm_atten_inno",
+      "label": "bm_atten_inno",
+      "lang": "",
+      "group": "Server voices"
+    },
+    {
+      "id": "bm_daniel",
+      "label": "bm_daniel",
+      "lang": "",
+      "group": "Server voices"
+    },
+    {
+      "id": "bm_fable",
+      "label": "bm_fable",
+      "lang": "",
+      "group": "Server voices"
+    },
+    {
+      "id": "bm_george",
+      "label": "bm_george",
+      "lang": "",
+      "group": "Server voices"
+    },
+    {
+      "id": "bm_lewis",
+      "label": "bm_lewis",
+      "lang": "",
+      "group": "Server voices"
+    },
+    {
+      "id": "bm_v0george",
+      "label": "bm_v0george",
+      "lang": "",
+      "group": "Server voices"
+    },
+    {
+      "id": "bm_v0lewis",
+      "label": "bm_v0lewis",
+      "lang": "",
+      "group": "Server voices"
+    },
+    {
+      "id": "ef_dora",
+      "label": "ef_dora",
+      "lang": "",
+      "group": "Server voices"
+    },
+    {
+      "id": "em_alex",
+      "label": "em_alex",
+      "lang": "",
+      "group": "Server voices"
+    },
+    {
+      "id": "em_santa",
+      "label": "em_santa",
+      "lang": "",
+      "group": "Server voices"
+    },
+    {
+      "id": "ff_siwis",
+      "label": "ff_siwis",
+      "lang": "",
+      "group": "Server voices"
+    },
+    {
+      "id": "hf_alpha",
+      "label": "hf_alpha",
+      "lang": "",
+      "group": "Server voices"
+    },
+    {
+      "id": "hf_beta",
+      "label": "hf_beta",
+      "lang": "",
+      "group": "Server voices"
+    },
+    {
+      "id": "hm_omega",
+      "label": "hm_omega",
+      "lang": "",
+      "group": "Server voices"
+    },
+    {
+      "id": "hm_psi",
+      "label": "hm_psi",
+      "lang": "",
+      "group": "Server voices"
+    },
+    {
+      "id": "if_sara",
+      "label": "if_sara",
+      "lang": "",
+      "group": "Server voices"
+    },
+    {
+      "id": "im_nicola",
+      "label": "im_nicola",
+      "lang": "",
+      "group": "Server voices"
+    },
+    {
+      "id": "jf_alpha",
+      "label": "jf_alpha",
+      "lang": "",
+      "group": "Server voices"
+    },
+    {
+      "id": "jf_gongitsune",
+      "label": "jf_gongitsune",
+      "lang": "",
+      "group": "Server voices"
+    },
+    {
+      "id": "jf_nezumi",
+      "label": "jf_nezumi",
+      "lang": "",
+      "group": "Server voices"
+    },
+    {
+      "id": "jf_tebukuro",
+      "label": "jf_tebukuro",
+      "lang": "",
+      "group": "Server voices"
+    },
+    {
+      "id": "jm_kumo",
+      "label": "jm_kumo",
+      "lang": "",
+      "group": "Server voices"
+    },
+    {
+      "id": "pf_dora",
+      "label": "pf_dora",
+      "lang": "",
+      "group": "Server voices"
+    },
+    {
+      "id": "pm_alex",
+      "label": "pm_alex",
+      "lang": "",
+      "group": "Server voices"
+    },
+    {
+      "id": "pm_santa",
+      "label": "pm_santa",
+      "lang": "",
+      "group": "Server voices"
+    },
+    {
+      "id": "zf_xiaobei",
+      "label": "zf_xiaobei",
+      "lang": "",
+      "group": "Server voices"
+    },
+    {
+      "id": "zf_xiaoni",
+      "label": "zf_xiaoni",
+      "lang": "",
+      "group": "Server voices"
+    },
+    {
+      "id": "zf_xiaoxiao",
+      "label": "zf_xiaoxiao",
+      "lang": "",
+      "group": "Server voices"
+    },
+    {
+      "id": "zf_xiaoyi",
+      "label": "zf_xiaoyi",
+      "lang": "",
+      "group": "Server voices"
+    },
+    {
+      "id": "zm_yunjian",
+      "label": "zm_yunjian",
+      "lang": "",
+      "group": "Server voices"
+    },
+    {
+      "id": "zm_yunxi",
+      "label": "zm_yunxi",
+      "lang": "",
+      "group": "Server voices"
+    },
+    {
+      "id": "zm_yunxia",
+      "label": "zm_yunxia",
+      "lang": "",
+      "group": "Server voices"
+    },
+    {
+      "id": "zm_yunyang",
+      "label": "zm_yunyang",
+      "lang": "",
+      "group": "Server voices"
+    }
+  ]
+}

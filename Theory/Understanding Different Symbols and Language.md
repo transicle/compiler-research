@@ -1,3 +1,4 @@
+![[Understanding Different Symbols and Language.mp3]]
 Some of these are also listed in different files when context is necessary and isn't very common like $\Sigma$ is.
 
 - $\epsilon$ (or Epsilon, lowercase) is used to represent an empty string or a blank area.
