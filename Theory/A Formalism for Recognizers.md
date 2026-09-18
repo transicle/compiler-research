@@ -1,4 +1,5 @@
 ![[A Formalism for Recognizers.mp3]]
+
 These diagrams serve as abstractions of the code that would be required to implement them. They can also be viewed as formal mathematical objects, called *finite automata*, that specify recognizers. Formally, a finite automaton (FA) is a five-tuple ($S$, $\Sigma$, $\delta$, $s_0$, $S_A$).
 
 > $\in$ simply refers to membership, $x \in y$ refers to $x$ *is a member of* $y$.

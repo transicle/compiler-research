@@ -1,4 +1,6 @@
 ![[Ch. 2.3.a  —  Introduction to Regular Expressions.mp3]]
+
+
 The set of words accepted by a finite automaton, $F$, forms a language, $L$, denoted $L(F)$. The transition diagram of $F$ specifies how to spell every word in that language.
 
 **Think of $L$ as a question:** "What does this RE/FA accept?", so $L(F)$ would ask, "what does the RE, $F$, accept?", it accepts the *set* of strings defined by $F$. 

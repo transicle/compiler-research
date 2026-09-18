@@ -1,3 +1,5 @@
+![[Ch. 2.1  —  Scanners.mp3]]
+
 A scanner (or: *lexical scanner*, *analyzer*, *lexical analyzer*) is a piece of software that transform a stream of characters, or a string, into a stream of tokens. Each word must be set into a specific category, called a token type.
 
 An example of a token type would be the `Ident(String)` variant inside of the `Token` enumerated type, where `Ident` is the actual token, and `String` is the type of value that can be stored in the token.

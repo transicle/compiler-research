@@ -1,4 +1,5 @@
 ![[Ch. 2.3.b  —  Formalizing the Notation for Regular Expressions.mp3]]
+
 Assume that we have an alphabet, $\Sigma$. A regular expression describes a set of strings over the characters in $\Sigma$, plus an additional character, $\epsilon$ that represents the empty string. The set of strings defined by an RE is called a *language*. We denote the language described by some RE, $r$, as $L(r)$.
 
 > Concatenation refers to when you conjoin objects together, typically seen in strings. **"Hello,"** **+** **" world!"** **=** **"Hello, world!"**. 

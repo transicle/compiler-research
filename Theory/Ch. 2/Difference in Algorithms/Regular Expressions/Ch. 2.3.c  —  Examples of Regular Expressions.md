@@ -1,4 +1,5 @@
 ![[Ch. 2.3.c  —  Examples of Regular Expressions.mp3]]
+
 Some examples from actual programming languages are in order:
 
 1. The rule given for identifiers in Algol-like languages (such as Java), consists of an alphabetic character followed by zero or more alphanumeric characters, is just: $([A...Z] | [a...z]) ([A...Z] | [a...z] | [0...9])^*$.

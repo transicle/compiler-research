@@ -1,4 +1,5 @@
 ![[Ch. 2.4.d  —  Closure Properties of Regular Expressions.mp3]]
+
 REs and the languages they produce have been the subject of study. They have many highly intruiging and useful properties. Some of which play a role in the constructions that build recognizers from REs.
 
 > A "regular language" is any language that can be specified by a regular expression.

@@ -1,4 +1,5 @@
 ![[Debugging & Using the Scanner.mp3]]
+
 Before anything else, we need to turn the instances from the `TokenKind` enum into a string. We can do this using a helper function in `src/lexer/tokens.hh`. We can also add a method to the `Token` struct, allowing to directly convert it to a string.
 
 (Add the `#include <format>` line at the start of the file!)

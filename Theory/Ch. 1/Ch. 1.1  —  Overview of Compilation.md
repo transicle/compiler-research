@@ -1,4 +1,5 @@
 ![[Ch. 1.1  —  Overview of Compilation.mp3]]
+
 A compiler is some translation software that turns a program written in one language, into a program written in another language, typically a lower-level form, like Assembly.
 
 To do so, the compiler *must* understand the form (or syntax), and the content (or meaning) of the input language, as well as needing to understand the rules that control syntax and meaning in the output language.

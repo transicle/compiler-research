@@ -1,4 +1,5 @@
 ![[Building the Scanner.mp3]]
+
 Now, we can actually construct the scanner. In the `src/lexer/lexer.cc` file, we can implement everything in the public-side of our `Lexer` class.
 
 ```cpp
