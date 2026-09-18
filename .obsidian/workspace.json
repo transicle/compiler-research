@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Theory/Ch. 2/Ch. 2.1  —  Scanners.md",
+                "file": "Theory/Ch. 1/Ch. 1.1  —  Overview of Compilation.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Ch. 2.1  —  Scanners"
+              "title": "Ch. 1.1  —  Overview of Compilation"
             }
           }
         ]
@@ -83,7 +83,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 505.3828125
+    "width": 527.22265625
   },
   "right": {
     "id": "6205f2b4a1e83a60",
@@ -170,30 +170,30 @@
   },
   "active": "d7a8d3e5417b6cf9",
   "lastOpenFiles": [
-    "Audios/Ch. 2.1  —  Scanners.mp3",
-    "Theory/A Formalism for Recognizers.md",
-    "Theory/Ch. 2/Ch. 2.1  —  Scanners.md",
-    "Audios/Ch. 2.1  —  Scanners 1.mp3",
-    "Theory/Ch. 2/Difference in Algorithms/Regular Expressions/Ch. 2.4.d  —  Closure Properties of Regular Expressions.md",
-    "Theory/Ch. 2/Difference in Algorithms/Ch. 2.2.a  —  The CBC Algorithm.md",
-    "Theory/Ch. 2/Difference in Algorithms/Regular Expressions/Ch. 2.3.a  —  Introduction to Regular Expressions.md",
-    "Theory/Ch. 2/Difference in Algorithms/Regular Expressions/Ch. 2.3.b  —  Formalizing the Notation for Regular Expressions.md",
-    "Theory/Ch. 2/Difference in Algorithms/Regular Expressions/Ch. 2.3.c  —  Examples of Regular Expressions.md",
-    "Audios/Ch. 2.1  —  Scanners.mp3",
-    "Theory/Understanding FSM Diagrams.md",
+    "Audios/Lessons/Concepts/A Formalism for Recognizers.mp3",
+    "Audios/Lessons/Concepts",
+    "Audios/Lab",
+    "Audios/Lessons",
+    "Audios/Lessons/Concepts/Understanding FSM Diagrams.mp3",
+    "Audios/Lessons/Concepts/Understanding Different Symbols and Language.mp3",
     "Theory/Understanding Different Symbols and Language.md",
-    "Theory/Ch. 1/Ch. 1.1  —  Overview of Compilation.md",
+    "Theory/Understanding FSM Diagrams.md",
+    "Theory/A Formalism for Recognizers.md",
     "Lab/Writing a Lexical Scanner/Debugging & Using the Scanner.md",
+    "Audios/Lab/Debugging & Using the Scanner.mp3",
     "Lab/Writing a Lexical Scanner/Creating the Scanner's Design.md",
+    "Audios/Lab/Creating the Scanner's Design.mp3",
     "Lab/Writing a Lexical Scanner/Building the Scanner.md",
-    "Audios/Ch. 2.3.a  —  Introduction to Regular Expressions.mp3",
-    "Audios/Ch. 2.3.b  —  Formalizing the Notation for Regular Expressions.mp3",
-    "Audios/A Formalism for Recognizers.mp3",
-    "Audios/Understanding FSM Diagrams.mp3",
-    "Audios/Understanding Different Symbols and Language.mp3",
-    "Audios/Ch. 2.4.d  —  Closure Properties of Regular Expressions.mp3",
-    "Audios/Ch. 2.3.c  —  Examples of Regular Expressions.mp3",
-    "Audios/Ch. 1.1  —  Overview of Compilation.mp3",
+    "Audios/Lab/Building the Scanner.mp3",
+    "Theory/Ch. 1/Ch. 1.1  —  Overview of Compilation.md",
+    "Theory/Ch. 2/Ch. 2.1  —  Scanners.md",
+    "Theory/Ch. 2/Difference in Algorithms/Ch. 2.2.a  —  The CBC Algorithm.md",
+    "Theory/Ch. 2/Difference in Algorithms/Regular Expressions/Ch. 2.4.d  —  Closure Properties of Regular Expressions.md",
+    "Theory/Ch. 2/Difference in Algorithms/Regular Expressions/Ch. 2.3.c  —  Examples of Regular Expressions.md",
+    "Theory/Ch. 2/Difference in Algorithms/Regular Expressions/Ch. 2.3.b  —  Formalizing the Notation for Regular Expressions.md",
+    "Theory/Ch. 2/Difference in Algorithms/Regular Expressions/Ch. 2.3.a  —  Introduction to Regular Expressions.md",
+    "Audios/Lessons/Ch. 2.3.a  —  Introduction to Regular Expressions.mp3",
+    "Audios/Lessons/Ch. 2.3.b  —  Formalizing the Notation for Regular Expressions.mp3",
     "README.md",
     "Assets/Pasted image 20260916212447.png",
     "Assets/Pasted image 20260826192712.png",
